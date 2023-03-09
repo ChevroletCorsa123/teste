@@ -2,3 +2,19 @@
     margin: 0px;
     padding: 0px;
 }
+
+.header_1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: darkgoldenrod;
+}
+.header_1 h1 {
+    font-size: 80px;
+    margin: 0px;
+}
+.header_1 h2 {
+    font-size: 30px;
+    margin: 0px;
+}
